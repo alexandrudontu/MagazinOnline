@@ -1,0 +1,6 @@
+@magazinOnline_HostAddress = http://localhost:5157
+
+GET {{magazinOnline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
